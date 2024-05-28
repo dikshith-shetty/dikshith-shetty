@@ -3,8 +3,8 @@
 I'm Dikshith, and welcome to my GitHub profile!
 
 ## Fun Facts
-- Backend Developer as well as a Data Engineer with a Master Degree in Computer Applications fron Bengalur University.
-- Passionate about Maths, stats and data.
+- Backend Developer as well as a Data Engineer with a Master Degree in Computer Applications fron Bengaluru University.
+- Passionate about Maths, Stats and Data.
 
 ## Languages and Tools
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]()
