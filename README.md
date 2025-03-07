@@ -68,6 +68,20 @@
       </a>
       <br>Clojure
     </td>
+    <td align="center" width="96"> 
+      <a href="#dexto-tech" >
+        <img src="./svg/mysql-svgrepo-com.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96"> 
+      <a href="#dexto-tech" >
+        <img src="./svg/redis-svgrepo-com.svg" width="48" height="48" alt="Redis" />
+      </a>
+      <br>Redis
+    </td>
+    </tr>
+    <tr>
     <td align="center" width="96">
       <a href="#dexto-tech" >
         <img src="./svg/kubernetes-svgrepo-com.svg" width="48" height="48" alt="Kubernetes" />
