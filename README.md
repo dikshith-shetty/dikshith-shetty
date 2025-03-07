@@ -1,42 +1,116 @@
-# Hello World! 👋
 
-I'm Dikshith, and welcome to my GitHub profile!
+<h1 align="left" id = "dexto-title"> 👋🌎I'm Dikshith Shetty!</h1>
 
-## Fun Facts
-- Backend Developer as well as a Data Engineer with a Master Degree in Computer Applications fron Bengaluru University.
-- Passionate about Maths, Stats and Data.
+<h3 align="left"> I am a Software Engineer </h3>
+<p align="left"> In general, I do Requirement Analysis, code developement, unit testing, integration testing, code review, Prod deployments/maintenance/support. </p>
 
-## Languages and Tools
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]()
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)]()
-<!--
-## Pinned
-- [**Project Name**](Link to Project): Brief description of the project.
-- [**Another Project**](Link to Project): Brief description of the project.
+<p align="left" style="text-decoration: none;">
+  
+  <a style="text-decoration: none;" href="https://github.com/dikshith-shetty">
+    <img src="https://komarev.com/ghpvc/?username=dikshith-shetty" alt="page views" />
+  </a>
+  <a style="text-decoration: none;" href="">
+    <img alt="Website" src="https://img.shields.io/website?url=https://github.com/dikshith-shetty/">
+  </a>
+  <a style="text-decoration: none;" href="https://stackoverflow.com/users/2271714">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/2271714?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a style="text-decoration: none;" href="https://www.youtube.com/channel/UCdP2mnXZnXZqEuQry1LgPXw">
+    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCdP2mnXZnXZqEuQry1LgPXw?style=flat&logo=youtube">
+  </a>
+  <a href="https://github.com/dikshith-shetty?tab=followers" style="text-decoration: none;">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/dikshith-shetty?style=flat&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme" style="text-decoration: none;">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+</p>
 
-## Check out my latest blog posts
-<!-- Add links to your blog posts or a plugin to fetch recent articles -->
+- :office: &nbsp;I'm currently not working, looking for new opportunities.
+- :seedling: &nbsp;I’m currently working on web3 **[project_name]**
+- :book: &nbsp;Learn more about my projects on my **[blog]**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
 
-<!--## Metrics
-<!-- Add your GitHub metrics, e.g., contribution graph, followers count -->
+<h2 align="left" id="dexto-tech">Favorite Tech</h2>
 
-<!-- ## Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your LinkedIn URL)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) -->
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#dexto-tech">
+        <img src="./svg/java-svgrepo-com.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java 
+    </td>
+    <td align="center" width="96">
+      <a href="#dexto-tech">
+        <img src="./svg/spring-icon-svgrepo-com.svg" width="48" height="48" alt="Spring" />
+      </a>
+      <br>Spring
+    </td>
+    <td align="center" width="96">
+      <a href="#dexto-tech">
+        <img src="./svg/python-svgrepo-com.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#dexto-tech">
+        <img src="./svg/js-svgrepo-com.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#dexto-tech">
+        <img src="./svg/clojure-svgrepo-com.svg" width="48" height="48" alt="Clojure" />
+      </a>
+      <br>Clojure
+    </td>
+    <td align="center" width="96">
+      <a href="#dexto-tech" >
+        <img src="./svg/kubernetes-svgrepo-com.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96"> 
+      <a href="#dexto-tech" >
+        <img src="./svg/docker-svgrepo-com.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center"  width="96">
+      <a href="#dexto-tech">
+        <img src="./svg/linux-svgrepo-com.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#dexto-tech" >
+        <img src="./svg/grafana-svgrepo-com.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+    <td align="center" width="96">
+      <a href="#dexto-tech" >
+        <img src="./svg/prometheus-svgrepo-com.svg" width="48" height="48" alt="Prometheus" />
+      </a>
+      <br>Prometheus
+    </td>
+    <td align="center" width="96">
+      <a href="#dexto-tech" >
+        <img src="./svg/terraform-icon-svgrepo-com.svg" width="48" height="48" alt="Terraform" />
+      </a>
+      <br>Terraform
+    </td>
+  </tr>
+</table>
 
 
-<!--
-**dikshith-shetty/dikshith-shetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![dikshith-shetty's Stats](https://github-readme-stats.vercel.app/api?username=dikshith-shetty&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![dikshith-shetty's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshith-shetty&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![dikshith-shetty's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dikshith-shetty&theme=dark&hide_border=true)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
