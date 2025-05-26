@@ -21,9 +21,9 @@
   <a href="https://github.com/dikshith-shetty?tab=followers" style="text-decoration: none;">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/dikshith-shetty?style=flat&logo=github">
   </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme" style="text-decoration: none;">
+<!--   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme" style="text-decoration: none;">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
+  </a> -->
 </p>
 
 - :office: &nbsp;I'm currently not working, looking for new opportunities.
