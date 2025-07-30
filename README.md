@@ -26,8 +26,8 @@
   </a> -->
 </p>
 
-- :office: &nbsp;I'm currently not working, looking for new opportunities.
-- :seedling: &nbsp;I’m currently working on web3 **[project_name]**
+- :office: Recursive Coders
+- :seedling: &nbsp;I’m currently working on **[project_name]**
 - :book: &nbsp;Learn more about my projects on my **[blog]**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
